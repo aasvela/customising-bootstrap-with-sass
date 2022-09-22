@@ -2,16 +2,19 @@ h1,
 h2,
 h3,
 h4 {
-    font-family: "Julius Sans One", sans-serif;
+  font-family: 'Archivo Narrow', sans-serif;
 }
 
 h1 {
-    font-size: 1.8em;
-    margin-top: 1em;
-    margin-bottom: 1em;
-    color: $primary;
+  font-size: 1.8em;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  color: $primary;
 }
 
 h1.home {
-    color: white;
+  color: white;
+}
+p {
+  font-family: 'Open Sans', sans-serif;
 }
